@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hi this is Sai Manoj Ayanala
 Hi This is Ayanala Sai Manoj
+=======
+Hi this is Sai Manoj
+Hi This is Ayanala
+Hi
+>>>>>>> 24252b00b721c76c3e9629e382da0e6d27dfd0fe
